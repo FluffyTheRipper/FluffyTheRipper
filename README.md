@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FluffyTheRipper
-- 👀 I’m interested in basic bitch automation and tools for everyday office tasks. 
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in automation and tools for everyday office tasks. 
+- 🌱 I enjoy python.
 
 <!---
 FluffyTheRipper/FluffyTheRipper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
